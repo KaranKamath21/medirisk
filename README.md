@@ -25,9 +25,13 @@ After cloning this repository, follow the steps below to set up and run the appl
   
 ## Images of the app - 
 <img src="https://github.com/KaranKamath21/medirisk/assets/117142952/773a5cf6-967c-4b61-b8e6-592e4e29e1b7" width=300px>
+
 <img src="https://github.com/KaranKamath21/medirisk/assets/117142952/307e543d-5a00-418f-9904-2b5085c105f8" width=300px>
+
 <img src="https://github.com/KaranKamath21/medirisk/assets/117142952/d449982f-9149-4bfc-90ea-58820458bd3e" width=300px>
-<img src="https://github.com/KaranKamath21/medirisk/assets/117142952/ff63557a-1bef-4961-b717-448f8188a6a0" width=150px>
+
+<img src="https://github.com/KaranKamath21/medirisk/assets/117142952/ff63557a-1bef-4961-b717-448f8188a6a0" width=300px>
+
 <img src="https://github.com/KaranKamath21/medirisk/assets/117142952/89af7bd8-11ce-4149-907a-aaf828000d3c" width=300px>
 
 
