@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184276594564",
+    "project_id": "medirisk-59ee7",
+    "storage_bucket": "medirisk-59ee7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184276594564:android:4e3fc9a70d16452713f7d1",
+        "android_client_info": {
+          "package_name": "com.design.medirisk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyT2hzm1botp0n4X_pbj_h-vRnrqldbB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
