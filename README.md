@@ -24,13 +24,12 @@ After cloning this repository, follow the steps below to set up and run the appl
    - Run the Flutter application.
   
 ## Images of the app - 
-![user login](https://github.com/KaranKamath21/medirisk/assets/117142952/773a5cf6-967c-4b61-b8e6-592e4e29e1b7){: width="400px"}
-![Permissions](https://github.com/KaranKamath21/medirisk/assets/117142952/307e543d-5a00-418f-9904-2b5085c105f8){: width="400px"}
-![disease prediction](https://github.com/KaranKamath21/medirisk/assets/117142952/d449982f-9149-4bfc-90ea-58820458bd3e){: width="400px"}
-![mental health](https://github.com/KaranKamath21/medirisk/assets/117142952/ff63557a-1bef-4961-b717-448f8188a6a0){: width="400px"}
-![notifications](https://github.com/KaranKamath21/medirisk/assets/117142952/ba47966d-7776-48f8-9bed-c78a28ea162e){: width="250px"}
-![alert notification](https://github.com/KaranKamath21/medirisk/assets/117142952/89af7bd8-11ce-4149-907a-aaf828000d3c){: width="400px"}
-
+![user login](https://github.com/KaranKamath21/medirisk/assets/117142952/773a5cf6-967c-4b61-b8e6-592e4e29e1b7)
+![Permissions](https://github.com/KaranKamath21/medirisk/assets/117142952/307e543d-5a00-418f-9904-2b5085c105f8)
+![disease prediction](https://github.com/KaranKamath21/medirisk/assets/117142952/d449982f-9149-4bfc-90ea-58820458bd3e)
+![mental health](https://github.com/KaranKamath21/medirisk/assets/117142952/ff63557a-1bef-4961-b717-448f8188a6a0)
+![notifications](https://github.com/KaranKamath21/medirisk/assets/117142952/ba47966d-7776-48f8-9bed-c78a28ea162e)
+![alert notification](https://github.com/KaranKamath21/medirisk/assets/117142952/89af7bd8-11ce-4149-907a-aaf828000d3c)
 
 
 
